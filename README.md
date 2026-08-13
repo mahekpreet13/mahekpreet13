@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahekpreet Kaur
+#  Hi, I'm Mahekpreet Kaur
 
 ### Full-Stack Developer · AI/ML Enthusiast · Problem Solver
 
@@ -19,17 +19,17 @@ clean architecture, performance, and production-ready deployment.
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
-- 🔭 Building **full-stack and AI-powered applications**
-- 🧠 Exploring **AI/ML, backend engineering & intelligent systems**
-- ⚙️ Learning **System Design, Kubernetes & Cloud Infrastructure**
-- 💻 Solved **172+ LeetCode problems**
-- 🚀 Interested in building **production-ready, scalable software**
+-  Building **full-stack and AI-powered applications**
+-  Exploring **AI/ML, backend engineering & intelligent systems**
+-  Learning **System Design, Kubernetes & Cloud Infrastructure**
+-  Solved **172+ LeetCode problems**
+-  Interested in building **production-ready, scalable software**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -69,9 +69,9 @@ clean architecture, performance, and production-ready deployment.
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-### 🤖 AI-Powered Intelligent System
+###  AI-Powered Intelligent System
 
 A production-oriented AI application designed around a real-world problem,
 combining intelligent models with a scalable backend and interactive frontend.
@@ -80,7 +80,7 @@ combining intelligent models with a scalable backend and interactive frontend.
 
 ---
 
-### ⚡ Full-Stack Production Platform
+###  Full-Stack Production Platform
 
 End-to-end web application with authentication, REST APIs, database architecture,
 and containerized deployment.
@@ -89,7 +89,7 @@ and containerized deployment.
 
 ---
 
-### 📊 Machine Learning Analytics Platform
+###  Machine Learning Analytics Platform
 
 Interactive machine-learning platform for data analysis, prediction,
 visualization, and model evaluation.
@@ -98,7 +98,7 @@ visualization, and model evaluation.
 
 ---
 
-# 🧩 Problem Solving
+#  Problem Solving
 
 <p align="center">
 
@@ -110,40 +110,9 @@ visualization, and model evaluation.
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mahekpreet13&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahekpreet13&layout=compact&theme=transparent&hide_border=true"
-    height="180"
-  />
-</p>
 
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mahekpreet13&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-  />
-</p>
-
----
-
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
