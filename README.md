@@ -12,9 +12,9 @@ clean architecture, performance, and production-ready deployment.
   <a href="https://github.com/mahekpreet13?tab=repositories">
     <img src="https://img.shields.io/github/stars/mahekpreet13?label=Stars&style=flat-square" />
   </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-172%2B%20Solved-orange?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
+ <a href="https://leetcode.com/u/mahekpreet13/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-172%2B%20Solved-orange?style=flat-square&logo=leetcode&logoColor=white" />
+</a>
 </p>
 
 ---
